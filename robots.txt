@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iongtonda.github.io/sitemap
+Sitemap: https://iongtonda.github.io/app/sitemap
+Sitemap: https://iongtonda.github.io/assets/sitemap
+Sitemap: https://iongtonda.github.io/css/sitemap
+Sitemap: https://iongtonda.github.io/includes/sitemap
+Sitemap: https://iongtonda.github.io/item/sitemap
+Sitemap: https://iongtonda.github.io/src/sitemap
